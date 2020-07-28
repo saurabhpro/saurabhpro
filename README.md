@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   Presently in Delhi, India and working at <b><a href="https://www.linkedin.com/company/iongroup" >Ion Treasury</a></b> 
 </p>
 
-Hi, I'm Saurabh - I like experimenting with new technologies, building projects and occasionally I do photography ;)<br/>
+I like experimenting with new technologies, building projects and occasionally I do photography ;)<br/>
 I'm strictly pro for the clean coder philopsphies (all thanks to Martin Fowler and my 100's of experiments here)
 
 ## Here's a list of things I currently keep myself busy with:
