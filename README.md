@@ -27,22 +27,22 @@ ps. I can deadlift 250 pounds
 
 # 🚀 Skills
 
-<h4>🌱 I'm currently learning...</h4>
+<h4>🌱 I'm currently learning</h4>
 <p >
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazon%20aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp;&nbsp;&nbsp;<!--<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4>🤘 And I'm also using...</h4>
+<h4>🤘 And my preferred tech stack</h4>
 <p>
-  <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rest%20api%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4>🤙 And from time to time I worked with them...</h4>
+<h4>🤙 And from time to time I worked with them</h4>
 <p>
   <!--<img src="https://img.shields.io/badge/c%20Sharp%20-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@ ps. I can deadlift 250 pounds
 
 </p>
 
-<h4>🤝 My current favorite IDE's...</h4>
+<h4>🤝 My current favorite IDE's</h4>
 <p>
   <img src="https://img.shields.io/badge/intellij%20Idea%20-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />&nbsp;&nbsp;&nbsp;
