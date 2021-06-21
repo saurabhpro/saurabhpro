@@ -30,12 +30,12 @@ ps. I can deadlift 250 pounds
 <h4>🌱 I'm currently learning</h4>
 <p >
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazon%20aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp;&nbsp;&nbsp;<!--<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <h4>🤘 And my preferred tech stack</h4>
 <p>
   <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/rest%20api%20-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
