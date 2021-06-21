@@ -29,7 +29,7 @@ ps. I can deadlift 250 pounds
 
 <h4>🌱 I'm currently learning...</h4>
 <p >
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazon%20aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazon%20aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp;&nbsp;&nbsp;<!--<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -44,9 +44,9 @@ ps. I can deadlift 250 pounds
 
 <h4>🤙 And from time to time I worked with them...</h4>
 <p>
-  <img src="https://img.shields.io/badge/c%20Sharp%20-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <!--<img src="https://img.shields.io/badge/c%20Sharp%20-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <!--<img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
