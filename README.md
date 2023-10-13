@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align='center'> Hi there 👋, I'm Saurabh  💻 </h1>
 
 <p align='center'>
-  Presently in 🇵🇱 and working at <b><a href="https://www.linkedin.com/company/revolut" >Revolut</a></b>
+  Presently in 🇬🇧 and working at <b><a href="https://www.linkedin.com/company/revolut" >Revolut</a></b>
 </p>
 
 I like experimenting with new technologies, building projects and occasionally I do photography ;)<br/>
