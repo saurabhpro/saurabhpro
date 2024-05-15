@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   Presently in 🇬🇧 and working at <b><a href="https://www.linkedin.com/company/revolut" >Revolut</a></b>
 </p>
 
+<!-- 
 I like experimenting with new technologies, building projects and occasionally I do photography ;)<br/>
 I'm strictly pro for the clean coder philopsphies (all thanks to Martin Fowler and my 100's of experiments here)
 
@@ -27,10 +28,10 @@ I'm strictly pro for the clean coder philopsphies (all thanks to Martin Fowler a
 # 🚀 Skills
 
 <h4>🌱 I'm currently learning</h4>
-<p >
+<p>
   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/amazon%20aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />&nbsp;&nbsp;&nbsp;<!--<img src="https://img.shields.io/badge/jest%20-%23c21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
 </p>
-
+<!-- 
 <h4>🤘 And my preferred tech stack</h4>
 <p>
   <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -41,15 +42,17 @@ I'm strictly pro for the clean coder philopsphies (all thanks to Martin Fowler a
   <img src="https://img.shields.io/badge/mysql%20-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4>🤙 And from time to time I worked with them</h4>
+
+<!-- <h4>🤙 And from time to time I worked with them</h4>
 <p>
   <!--<img src="https://img.shields.io/badge/c%20Sharp%20-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <!--<img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;-->
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <!--  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 </p>
+-->
 
 <h4>🤝 My current favorite IDE's</h4>
 <p>
